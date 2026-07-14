@@ -47,6 +47,7 @@ Settings
     └── Adapter 1
         └── Attached to: Bridged Adapter
 ```
+![VirtualBox Network Settings](../images/virtualbox-network.png)
 
 ## Why Bridged Adapter?
 
@@ -82,6 +83,8 @@ Inside the CentOS VM, run:
 ```bash
 ip addr show
 ```
+
+![IP config](../images/check-ip.png)
 
 You should see a network interface (for example, `enp0s3`) with an assigned IP address.
 
