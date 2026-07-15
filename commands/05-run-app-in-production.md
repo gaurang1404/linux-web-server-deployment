@@ -166,4 +166,4 @@ If the request is successful, you should receive a JSON response containing the 
 
 Congratulations! Your application is now running outside of the local environment and is accessible over the network.
 
-In the next section, we'll improve this setup by running the application as a **systemd service**, ensuring it starts automatically when the server boots and continues running reliably in the background.
+In the next section, we will create a service account to run this application before we create a systemd file to manage this service.
