@@ -27,8 +27,6 @@ By the end, you'll have a solid understanding of how a production-style Linux we
 
 ---
 
----
-
 ## 🏗️ Deployment Architecture
 
 The following diagram provides a high-level overview of the deployment architecture you'll build throughout this guide.
