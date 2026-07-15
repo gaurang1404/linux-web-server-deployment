@@ -27,6 +27,20 @@ By the end, you'll have a solid understanding of how a production-style Linux we
 
 ---
 
+---
+
+## 🏗️ Deployment Architecture
+
+The following diagram provides a high-level overview of the deployment architecture you'll build throughout this guide.
+
+It illustrates how a client request travels from a web browser to your Linux server, through **NGINX**, and finally reaches the **Node.js (Express)** application managed by **systemd**.
+
+> **Architecture Diagram**
+
+![Deployment Architecture](images/deployment-architecture.png)
+
+By the end of this guide, you'll understand how each component in this architecture works together to host a production-style web application.
+
 ## About this guide
 
 The purpose of this repository is to share the knowledge I gained while learning Linux server administration and web application deployment.
