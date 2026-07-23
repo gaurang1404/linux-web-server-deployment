@@ -98,3 +98,9 @@ If you found this guide useful, consider giving the repository a ⭐.
 It motivates me to create more practical, beginner-friendly resources for the developer community.
 
 Happy learning!
+
+---
+
+## License
+
+This repository is provided for educational purposes. Feel free to use and adapt the content for your own learning.
