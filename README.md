@@ -1,4 +1,4 @@
-# linux-web-server-deployment
+# Linux Web Server Deployment
 
 A practical, hands-on guide to deploying and hosting a Node.js web application on Linux using industry-standard tools such as **NGINX**, **systemd**, **firewalld**, **Git**, and **SSH**.
 
